@@ -5,13 +5,13 @@ Rapid coin is a powerful new peer-to-peer platform for the next generation of fi
 ## Get Started
 
 ```
-npm install rapid-lib
+npm install @saransh/rapid-lib
 ```
 ## Examples
 
-Generate private key
-Generate public key
-Sign and Create Raw Transactions
+1 Generate private key
+2 Generate public key
+3 Sign and Create Raw Transactions
 
 
 Rapid Coin JS Library

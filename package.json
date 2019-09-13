@@ -1,5 +1,5 @@
 {
-  "name": "rapid-lib",
+  "name": "@saransh/rapid-lib",
   "version": "0.16.1",
   "description": "A pure and powerful JavaScript Rapid Coin library.",
   "author": "Saransh Sharma <saransh@theupscale.in>",
